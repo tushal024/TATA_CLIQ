@@ -39,7 +39,7 @@ a.addEventListener("submit",(e)=>{
 }
 console.log(obj)
 
-fetch(``,
+fetch(`http://localhost:3000/userData`,
    {
      method: "POST",
      headers: {
@@ -72,7 +72,7 @@ document.querySelector("#loginform").addEventListener("submit",(f)=>{
     let loginEmail=document.getElementById("loginEmail").value
     let loginPassword=document.getElementById("loginPassword").value
 
-    fetch('').then((r)=>{
+    fetch('http://localhost:3000/userData').then((r)=>{
         return r.json()
     })
     .then((res)=>{
