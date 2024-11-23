@@ -14,7 +14,8 @@
             "mrp_price":3999,
             "off":60,
             "rate":1,
-            "color":"Aqua"
+            "color":"Aqua",
+            "type":"women"
         },
         {
             "id":2,
@@ -29,7 +30,8 @@
             "mrp_price":3479,
             "off":66,
             "rate":3.7,
-             "color":"purple"
+             "color":"purple",
+             "type":"women"
         },
         {
             "id":3,
@@ -44,7 +46,8 @@
             "mrp_price":2199,
             "off":55,
             "rate":3.6,
-             "color":"beige"
+             "color":"beige",
+             "type":"women"
         },
         {
             "id":4,
@@ -59,7 +62,8 @@
             "mrp_price":1299,
             "off":65,
             "rate":4.2,
-             "color":"black"
+             "color":"black",
+             "type":"women"
         },
         {
             "id":5,
@@ -74,7 +78,8 @@
             "mrp_price":1599,
             "off":32,
             "rate":1,
-             "color":"lilac"
+             "color":"lilac",
+             "type":"women"
         },
         {
             "id":6,
@@ -89,7 +94,8 @@
             "mrp_price":2999,
             "off":40,
             "rate":1,
-             "color":"beige"
+             "color":"beige",
+             "type":"women"
         },
         {
             "id":7,
@@ -104,7 +110,8 @@
             "mrp_price":999,
             "off":49,
             "rate":5,
-             "color":"white"
+             "color":"white",
+             "type":"women"
         },
         {
             "id":8,
@@ -118,7 +125,8 @@
             "price":520,
             "mrp_price":1299,
             "off":60,
-             "color":"green"
+             "color":"green",
+             "type":"women"
         },
         {
             "id":9,
@@ -133,7 +141,8 @@
             "mrp_price":1699,
             "off":20,
             "rate":5,
-             "color":"brown"
+             "color":"brown",
+             "type":"women"
         },
         {
             "id":10,
@@ -148,7 +157,8 @@
             "mrp_price":74,
             "off":97,
             "rate":4.5,
-             "color":"green"
+             "color":"green",
+             "type":"women"
         },
         {
             "id":11,
@@ -163,7 +173,8 @@
             "mrp_price":4099,
             "off":76,
             "rate":4.4,
-             "color":"white"
+             "color":"white",
+             "type":"women"
         },
         {
             "id":12,
@@ -178,7 +189,8 @@
             "mrp_price":1999,
             "off":20,
             "rate":5,
-             "color":"black"
+             "color":"black",
+             "type":"women"
         },
         {
             "id":13,
@@ -193,7 +205,8 @@
             "mrp_price":1999,
             "off":65,
             "rate":2,
-             "color":"brown"
+             "color":"brown",
+             "type":"women"
         },
         {
             "id":14,
@@ -208,7 +221,8 @@
             "mrp_price":1899,
             "off":53,
             "rate":4.5,
-             "color":"pink"
+             "color":"pink",
+             "type":"women"
         },
         {
             "id":15,
@@ -223,7 +237,8 @@
             "mrp_price":2799,
             "off":35,
             "rate":5,
-             "color":"black"
+             "color":"black",
+             "type":"women"
         },
         {
             "id":16,
@@ -238,7 +253,8 @@
             "mrp_price":3299,
             "off":55,
             "rate":2,
-             "color":"blue"
+             "color":"blue",
+             "type":"women"
         },
         {
             "id":17,
@@ -253,7 +269,8 @@
             "mrp_price":2799,
             "off":35,
             "rate":3,
-             "color":"black"
+             "color":"black",
+             "type":"women"
         },
         {
             "id":18,
@@ -268,7 +285,8 @@
             "mrp_price":2749,
             "off":26,
             "rate":5,
-             "color":"blue"
+             "color":"blue",
+             "type":"women"
         },
         {
             "id":51,
@@ -283,7 +301,8 @@
             "mrp_price":2399,
             "off":75,
             "rate":2.8,
-            "color":"pink"
+            "color":"pink",
+            "type":"kids"
         },
         {
             "id":52,
@@ -298,7 +317,8 @@
             "mrp_price":2399,
             "off":75,
             "rate":5,
-            "color":"pink"
+            "color":"pink",
+            "type":"kids"
         },
         {
             "id":53,
@@ -313,7 +333,8 @@
             "mrp_price":2249,
             "off":17,
             "rate":4.1,
-            "color":"white"
+            "color":"white",
+            "type":"kids"
         },
         {
             "id":54,
@@ -328,7 +349,8 @@
             "mrp_price":3998,
             "off":78,
             "rate":4.4,
-            "color":"gray"
+            "color":"gray",
+            "type":"kids"
         },
         {
             "id":55,
@@ -343,7 +365,8 @@
             "mrp_price":2299,
             "off":43,
             "rate":1,
-            "color":"gray"
+            "color":"gray",
+            "type":"kids"
         },
         {
             "id":56,
@@ -358,7 +381,8 @@
             "mrp_price":4299,
             "off":58,
             "rate":2,
-            "color":"pink"
+            "color":"pink",
+            "type":"kids"
         },
         {
             "id":57,
@@ -373,7 +397,8 @@
             "mrp_price":1699,
             "off":11,
             "rate":3.1,
-            "color":"black"
+            "color":"black",
+            "type":"kids"
         },
         {
             "id":58,
@@ -388,7 +413,8 @@
             "mrp_price":199,
             "off":50,
             "rate":3.2,
-            "color":"white"
+            "color":"white",
+            "type":"kids"
         },
         {
             "id":1001,
@@ -402,7 +428,8 @@
             "price":1499,
             "mrp_price":1700,
             "off":45,
-            "rate":3.5
+            "rate":3.5,
+            "type":"men"
           },
           {
             "id":1002,
@@ -416,7 +443,8 @@
             "price":1099,
             "mrp_price":1399,
             "off":24,
-            "rate":2.5
+            "rate":2.5,
+            "type":"men"
           },
           {
             "id":1003,
@@ -430,7 +458,8 @@
             "price":1399,
             "mrp_price":1899,
             "off":32,
-            "rate":3.0
+            "rate":3.0,
+            "type":"men"
           },
           {
             "id":1004,
@@ -444,7 +473,8 @@
             "price":999,
             "mrp_price":1299,
             "off":42,
-            "rate":3.5
+            "rate":3.5,
+            "type":"men"
           },
           {
             "id":1005,
@@ -458,7 +488,8 @@
             "price":1399,
             "mrp_price":1899,
             "off":32,
-            "rate":3.0
+            "rate":3.0,
+            "type":"men"
           },
           {
             "id":1006,
@@ -472,7 +503,8 @@
             "price":1199,
             "mrp_price":1399,
             "off":15,
-            "rate":2.0
+            "rate":2.0,
+            "type":"men"
           },
           {
             "id":1007,
@@ -486,7 +518,8 @@
             "price":1999,
             "mrp_price":1499,
             "off":42,
-            "rate":3.5
+            "rate":3.5,
+            "type":"men"
           },
           {
             "id":1008,
@@ -500,7 +533,8 @@
             "price":1299,
             "mrp_price":1899,
             "off":62,
-            "rate":4.0
+            "rate":4.0,
+            "type":"men"
           },
           {
             "id":1009,
@@ -514,7 +548,8 @@
             "price":1099,
             "mrp_price":1299,
             "off":32,
-            "rate":3.0
+            "rate":3.0,
+            "type":"men"
           },
           {
             "id":1010,
@@ -528,7 +563,8 @@
             "price":1399,
             "mrp_price":1599,
             "off":45,
-            "rate":3.0
+            "rate":3.0,
+            "type":"men"
           },
           {
             "id":1011,
@@ -542,7 +578,8 @@
             "price":1499,
             "mrp_price":1700,
             "off":45,
-            "rate":3.5
+            "rate":3.5,
+            "type":"men"
           },
           {
             "id":1012,
@@ -556,7 +593,8 @@
             "price":1499,
             "mrp_price":1700,
             "off":45,
-            "rate":3.5
+            "rate":3.5,
+            "type":"men"
           }
           
 
