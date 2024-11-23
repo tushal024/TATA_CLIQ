@@ -391,6 +391,21 @@
             "off":50,
             "rate":3.2,
             "color":"white"
+        },
+        {
+            "id":59,
+            "img1":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014176819_437Wx649H_202208301314481.jpeg",
+            "img2":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014176819_437Wx649H_202208301314502.jpeg",
+            "img3":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014176819_437Wx649H_202208301314513.jpeg",
+            "img4":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014176819_437Wx649H_202208301314524.jpeg",
+            "img5":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014176819_437Wx649H_202208301314535.jpeg",
+            "brand":"KIDS ONLY",
+            "dis":"KIDS ONLY Cream Cotton Regular Fit Jumpsuit",
+            "price":999,
+            "mrp_price":199,
+            "off":50,
+            "rate":3.2,
+            "color":"white"
         }
     ]
 }
