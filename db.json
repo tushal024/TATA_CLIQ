@@ -1,3 +1,189 @@
 {
-    "userData":[]
+    
+
+
+
+
+    "userData":[],
+
+
+
+ 
+        "Men Product":[
+          {
+            "id":1001,
+            "img1":"https://img.tatacliq.com/images/i16//437Wx649H/MP000000021087629_437Wx649H_202402082203121.jpeg",
+            "img2":"https://img.tatacliq.com/images/i16//437Wx649H/MP000000021087629_437Wx649H_202402082203142.jpeg",
+            "img3":"https://img.tatacliq.com/images/i16//437Wx649H/MP000000021087629_437Wx649H_202402082203163.jpeg",
+            "img4":"https://img.tatacliq.com/images/i16//437Wx649H/MP000000021087629_437Wx649H_202402082203154.jpeg",
+            "img5":"https://img.tatacliq.com/images/i16//437Wx649H/MP000000021087629_437Wx649H_202402082203135.jpeg",
+            "brand":"Spykar",
+            "dis":"Spykar Blue Cotton Regular Fit Striped Shirt",
+            "price":1499,
+            "mrp_price":1700,
+            "off":45,
+            "rate":3.5
+          },
+          {
+            "id":1002,
+            "img1":"https://img.tatacliq.com/images/i13/437Wx649H/MP000000019427928_437Wx649H_202309270120011.jpeg",
+            "img2":"https://img.tatacliq.com/images/i13/437Wx649H/MP000000019427928_437Wx649H_202309270120002.jpeg",
+            "img3":"https://img.tatacliq.com/images/i13/437Wx649H/MP000000019427928_437Wx649H_202309270119573.jpeg",
+            "img4":"https://img.tatacliq.com/images/i13/437Wx649H/MP000000019427928_437Wx649H_202309270119554.jpeg",
+            "img5":"https://img.tatacliq.com/images/i13/437Wx649H/MP000000019427928_437Wx649H_202309270119595.jpeg",
+            "brand":" Jack & Jones",
+            "dis":" Jack & Jones Multicolored Cotton Regular Fit Striped Shirt",
+            "price":1099,
+            "mrp_price":1399,
+            "off":24,
+            "rate":2.5
+          },
+          {
+            "id":1003,
+            "img1":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023352747_437Wx649H_202408181612021.jpeg",
+            "img2":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023352747_437Wx649H_202408181612042.jpeg",
+            "img3":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023352747_437Wx649H_202408181612003.jpeg",
+            "img4":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023352747_437Wx649H_202408181611584.jpeg",
+            "img5":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023352747_437Wx649H_202408181612015.jpeg",
+            "brand":"U.S. Polo Assn",
+            "dis":"U.S. Polo Assn. White Regular Fit Striped Cotton Shirt",
+            "price":1399,
+            "mrp_price":1899,
+            "off":32,
+            "rate":3.0
+          },
+          {
+            "id":1004,
+            "img1":"https://img.tatacliq.com/images/i7/437Wx649H/MP000000008540980_437Wx649H_202101122004591.jpeg",
+            "img2":"https://img.tatacliq.com/images/i7/437Wx649H/MP000000008540980_437Wx649H_202101122005002.jpeg",
+            "img3":"https://img.tatacliq.com/images/i7/437Wx649H/MP000000008540980_437Wx649H_202101122005013.jpeg",
+            "img4":"https://img.tatacliq.com/images/i7/437Wx649H/MP000000008540980_437Wx649H_202101122005034.jpeg",
+            "img5":"https://img.tatacliq.com/images/i7/437Wx649H/MP000000008540980_437Wx649H_202101122005013.jpeg",
+            "brand":"WES Casuals",
+            "dis":"WES Casuals by Westside Sage Green Slim Fit Shirt",
+            "price":999,
+            "mrp_price":1299,
+            "off":42,
+            "rate":3.5
+          },
+          {
+            "id":1005,
+            "img1":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023540164_437Wx649H_202409051305421.jpeg",
+            "img2":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023540164_437Wx649H_202409051305432.jpeg",
+            "img3":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023540164_437Wx649H_202409051305543.jpeg",
+            "img4":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023540164_437Wx649H_202409051305564.jpeg",
+            "img5":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023540164_437Wx649H_202409051305425.jpeg",
+            "brand":"U.S. Polo Assn",
+            "dis":"U.S. Polo Assn. White Regular Fit Striped Cotton Shirt",
+            "price":1399,
+            "mrp_price":1899,
+            "off":32,
+            "rate":3.0
+          },
+          {
+            "id":1006,
+            "img1":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014833143_437Wx649H_202210121512281.jpeg",
+            "img2":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014833143_437Wx649H_202210121512262.jpeg",
+            "img3":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014833143_437Wx649H_202210121512333.jpeg",
+            "img4":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014833143_437Wx649H_202210121512314.jpeg",
+            "img5":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000014833143_437Wx649H_202210121512305.jpeg",
+            "brand":" Jack & Jones",
+            "dis":" Jack & Jones Multicolored Cotton Regular Fit Striped Shirt",
+            "price":1199,
+            "mrp_price":1399,
+            "off":15,
+            "rate":2.0
+          },
+          {
+            "id":1007,
+            "img1":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013345608_437Wx649H_202206060255161.jpeg",
+            "img2":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013345608_437Wx649H_202206060255182.jpeg",
+            "img3":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013345608_437Wx649H_202206060255203.jpeg",
+            "img4":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013345608_437Wx649H_202206060255224.jpeg",
+            "img5":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013345608_437Wx649H_202206060255235.jpeg",
+           "brand":"WES Casuals",
+            "dis":"WES Casuals by Westside Sage Green Slim Fit Shirt",
+            "price":1999,
+            "mrp_price":1499,
+            "off":42,
+            "rate":3.5
+          },
+          {
+            "id":1008,
+            "img1":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024090564_437Wx649H_202410171158181.jpeg",
+            "img2":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024090564_437Wx649H_202410171158252.jpeg",
+            "img3":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024090564_437Wx649H_202410171158273.jpeg",
+            "img4":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024090564_437Wx649H_202410171158204.jpeg",
+            "img5":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024090564_437Wx649H_202410171158235.jpeg",
+            "brand":"U.S. Polo Assn",
+            "dis":"U.S. Polo Assn. White Regular Fit Striped Cotton Shirt",
+            "price":1299,
+            "mrp_price":1899,
+            "off":62,
+            "rate":4.0
+          },
+          {
+            "id":1009,
+            "img1":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013625441_437Wx649H_202206300210001.jpeg",
+            "img2":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013625441_437Wx649H_202206300210012.jpeg",
+            "img3":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013625441_437Wx649H_202206300210023.jpeg",
+            "img4":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013625441_437Wx649H_202206300210044.jpeg",
+            "img5":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000013625441_437Wx649H_202206300210012.jpeg",
+            "brand":"WES Casuals",
+            "dis":"WES Casuals by Westside Sage Green Slim Fit Shirt",
+            "price":1099,
+            "mrp_price":1299,
+            "off":32,
+            "rate":3.0
+          },
+          {
+            "id":1010,
+            "img1":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024280225_437Wx649H_202410312113441.jpeg",
+            "img2":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024280225_437Wx649H_202410312113472.jpeg",
+            "img3":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024280225_437Wx649H_202410312113513.jpeg",
+            "img4":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024280225_437Wx649H_202410312113494.jpeg",
+            "img5":"https://img.tatacliq.com/images/i20//437Wx649H/MP000000024280225_437Wx649H_202410312113425.jpeg",
+            "brand":" Jack & Jones",
+            "dis":" Jack & Jones Multicolored Cotton Regular Fit Striped Shirt",
+            "price":1399,
+            "mrp_price":1599,
+            "off":45,
+            "rate":3.0
+          },
+          {
+            "id":1011,
+            "img1":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023323771_437Wx649H_202408160026081.jpeg",
+            "img2":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023323771_437Wx649H_202408160026042.jpeg",
+            "img3":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023323771_437Wx649H_202408160026033.jpeg",
+            "img4":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023323771_437Wx649H_202408160026064.jpeg",
+            "img5":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023323771_437Wx649H_202408160026075.jpeg",
+            "brand":"Spykar",
+            "dis":"Spykar Blue Cotton Regular Fit Striped Shirt",
+            "price":1499,
+            "mrp_price":1700,
+            "off":45,
+            "rate":3.5
+          },
+          {
+            "id":1012,
+            "img1":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023255509_437Wx649H_202408091438111.jpeg",
+            "img2":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023255509_437Wx649H_202408091438162.jpeg",
+            "img3":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023255509_437Wx649H_202408091438133.jpeg",
+            "img4":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023255509_437Wx649H_202408091438144.jpeg",
+            "img5":"https://img.tatacliq.com/images/i19//437Wx649H/MP000000023255509_437Wx649H_202408091438111.jpeg",
+            "brand":"Spykar",
+            "dis":"Spykar Blue Cotton Regular Fit Striped Shirt",
+            "price":1499,
+            "mrp_price":1700,
+            "off":45,
+            "rate":3.5
+          }
+           
+        ]
+      
 }
+
+
+
+
+
